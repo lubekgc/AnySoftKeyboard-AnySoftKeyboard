@@ -259,11 +259,11 @@
     <string name="hide_soft_when_physical_on_summary">Skrýt softwarovou klávesnici, když se používá fyzická</string>
     <string name="hide_soft_when_physical_off_summary">Zobrazit softwarovou klávesnici, když se používá fyzická</string>
     <string name="fullscreen_input_connection_supported">Na šířku celá obrazovka</string>
-    <string name="fullscreen_input_connection_supported_on_summary">Vstup na celou obrazovku režimu na šířku</string>
-    <string name="fullscreen_input_connection_supported_off_summary">Nepoužívat vstup na celou obrazovku režimu na šířku</string>
+    <string name="fullscreen_input_connection_supported_on_summary">Vstup na celou obrazovku v režimu na šířku</string>
+    <string name="fullscreen_input_connection_supported_off_summary">Nepoužívat vstup na celou obrazovku v režimu na šířku</string>
     <string name="fullscreen_portrait_input_connection_supported">Na výšku celá obrazovka</string>
-    <string name="fullscreen_portrait_input_connection_supported_on_summary">Vstup na celou obrazovku režimu na výšku</string>
-    <string name="fullscreen_portrait_input_connection_supported_off_summary">Nepoužívat vstup na celou obrazovku režimu na výšku
+    <string name="fullscreen_portrait_input_connection_supported_on_summary">Vstup na celou obrazovku v režimu na výšku</string>
+    <string name="fullscreen_portrait_input_connection_supported_off_summary">Nepoužívat vstup na celou obrazovku v režimu na výšku
     </string>
     <string name="backword_support">Mazání celého slova</string>
     <string name="backword_support_on_summary">Shift + Backspace smaže poslední slovo</string>
